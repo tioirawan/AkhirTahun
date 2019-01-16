@@ -441,7 +441,7 @@ label scene_chikka_06:
 
     c "O-ohayou"
 
-    a "Nanti setelah kamu pulang sekolah, aku akan menggarap Komik yang telah kita bahas kemarin"
+    a "Nanti setelah kamu pulang sekolah, aku akan mengerjakan Komik yang telah kita bahas kemarin"
 
     c "Iyaa"
 
@@ -477,7 +477,7 @@ label scene_chikka_06:
 
     a "Hai’, Ojamashimasu"
 
-    a "Aku akan memulai untuk menggarap Ceritaku"
+    a "Aku akan memulai untuk mengerjakan Ceritaku"
 
     c "Aku akan jadi pendengar dulu kan"
 

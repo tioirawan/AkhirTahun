@@ -32,7 +32,7 @@ label scene_lora_01_01:
 
     show lora tanya with dissolve
 
-    l "maaf [player] aku harus segera menggarap pr ku"
+    l "maaf [player] aku harus segera mengerjakan pr ku"
 
     jump scene_lora_02
 
@@ -68,7 +68,7 @@ label scene_lora_03:
 
     l "ini aku, apa kau jadi?"
 
-    a "baik , sebentar aku ganti baju"
+    a "baik, sebentar aku ganti baju dulu"
 
     scene bg lorong_2 with fade
 
@@ -240,7 +240,7 @@ label scene_lora_06:
 
     gk "kau siapa memasuki wilayahku?"
 
-    a "namaku [player] , aku mencari seseorang"
+    a "namaku [player], aku mencari seseorang"
 
     show morune bad kaget with dissolve
 
@@ -280,7 +280,7 @@ label scene_lora_06_01:
 
     a "iya"
 
-    gk "hmmm , dah aku pergi dulu"
+    gk "hmmm, dah aku pergi dulu"
 
     jump scene_lora_07
 
@@ -306,7 +306,7 @@ label scene_lora_07:
 
     gk "apa yang dia mau lakukan sebenarnya malam-malam begini?"
 
-    a "entahlah , katanya ia menuju ke perpustakaan"
+    a "entahlah, katanya ia menuju ke perpustakaan"
 
     gk "perpustakaan lewat kanan situ"
 
@@ -354,7 +354,7 @@ label scene_lora_08:
     show lora biasa at slightright with dissolve
     l "jangan gitu dong cikko"
 
-    c "tapi , ini sudah larut malam loh"
+    c "tapi, ini sudah larut malam loh"
 
     show kyoko biasa 4 at left with dissolve
 
@@ -473,7 +473,7 @@ label scene_lora_09:
 
     show lora senang with dissolve
 
-    l "nanti Bu Kusina marah loh , hehe"
+    l "nanti Bu Kusina marah loh, hehe"
 
     a "omong-omong Lora"
 
@@ -497,7 +497,7 @@ label scene_lora_09:
 
     a "ohh begitu ya."
 
-    a "kalau soal guru , hal apa yang cocok kalau bisa di bikin komik?"
+    a "kalau soal guru, hal apa yang cocok kalau bisa di bikin komik?"
 
     show lora tanya with dissolve
 
@@ -603,13 +603,13 @@ label scene_lora_09_01:
 
     a "wah keren-keren"
 
-    k "[player] , makananmu sudah dingin. cepat makan"
+    k "[player], makananmu sudah dingin. cepat makan"
 
     a "ahh aku kelupaan"
 
     show lora senang with dissolve
 
-    l "hehe , makan dulu sana"
+    l "hehe, makan dulu sana"
 
     a "tunggu sebentar ya"
 
@@ -785,7 +785,7 @@ label scene_lora_09_01:
 
     a "anuu.. terus aku ngapain bu"
 
-    k "terserah , tapi jangan ganggu mereka"
+    k "terserah, tapi jangan ganggu mereka"
 
     a "baiklah"
 
@@ -879,7 +879,7 @@ label scene_lora_10:
 
     gk "tentu saja...."
 
-    a "baik aku pinjamkan , kau tunggu disini"
+    a "baik aku pinjamkan, kau tunggu disini"
 
     gk "baik"
 
@@ -915,7 +915,7 @@ label scene_lora_10:
 
     a "ohh Lora bagaimana hasil rapotmu?"
 
-    l "lumayan , aku ranking 3"
+    l "lumayan, aku ranking 3"
 
     a "wah syukurlah"
 
@@ -1087,7 +1087,7 @@ label scene_lora_10_01:
 
     c "EH!!"
 
-    c "Ten-Tentu saja tidak , Bodoh!"
+    c "Ten-Tentu saja tidak, Bodoh!"
 
     a "jujurlah pada dirimu"
 
@@ -1106,7 +1106,7 @@ label scene_lora_10_01:
 
     show kyoko biasa 4 at slightright with dissolve
 
-    k "ohh , terus kenapa itu cikka mukanya suram"
+    k "ohh, terus kenapa itu cikka mukanya suram"
 
     show chikka biasa 2 at slightleft with dissolve
 
@@ -1197,7 +1197,7 @@ label scene_lora_10_01:
 
     a "oke"
 
-    l "baik , selamat malam"
+    l "baik, selamat malam"
 
     a "selamat malam juga"
 
@@ -1209,7 +1209,7 @@ label scene_lora_10_01:
 
     c "ini hp kamu"
 
-    a "oh iya silahkan masuk , pintunya tidak ku kunci"
+    a "oh iya silahkan masuk, pintunya tidak ku kunci"
 
     c "apa tak apa?"
 
@@ -1221,7 +1221,7 @@ label scene_lora_10_01:
 
     a "ada apa malu-malu begitu"
 
-    c "tentu saja , aku baru pertama kali masuk kamar laki-laki"
+    c "tentu saja, aku baru pertama kali masuk kamar laki-laki"
 
     a "baik-baik, jadi kamu menghabiskan berapa kuotaku?"
 
@@ -1233,7 +1233,7 @@ label scene_lora_10_01:
 
     a "ya ampun...."
 
-    c "selamat malam , aku mau tidur"
+    c "selamat malam, aku mau tidur"
 
     "....."
 
@@ -1345,7 +1345,7 @@ label scene_lora_11_01:
 
     l "tunggu dulu...."
 
-    a "ahh aku kelupaan , aku mau beli pulsa. tunggu di sini Lora"
+    a "ahh aku kelupaan, aku mau beli pulsa. tunggu di sini Lora"
 
     l "bukankah kau..."
 
@@ -1357,7 +1357,7 @@ label scene_lora_11_01:
 
     "...."
 
-    a "maaf , aku terlambat"
+    a "maaf, aku terlambat"
 
     l "hey [player]"
 
@@ -1365,7 +1365,7 @@ label scene_lora_11_01:
 
     l "tidak.. tidak apa-apa"
 
-    a "ahh baik , ayo kita segera pulang dan melihat hasilnya."
+    a "ahh baik, ayo kita segera pulang dan melihat hasilnya."
 
     scene bg kamar_lora with fade
 
@@ -1439,7 +1439,7 @@ label scene_lora_11_01:
 
     #scene sp lora_01 with fade
 
-    a "Lora , ceritamu ini apa benar kau yang buat sendiri?"
+    a "Lora, ceritamu ini apa benar kau yang buat sendiri?"
 
     a "ahh dia tertidur"
 
@@ -1710,7 +1710,7 @@ label scene_lora_14_01:
 
     show kyoko biasa 2 at slightleft with dissolve
 
-    k "cepat kembali , cuaca mendung"
+    k "cepat kembali, cuaca mendung"
 
     a "iya!"
 
@@ -1856,7 +1856,7 @@ label scene_lora_15:
     m "iya?"
     m "terimakasih..."
 
-    a "tidak , jangan berterimakasih ke aku"
+    a "tidak, jangan berterimakasih ke aku"
     a "Lora telah mencarimu kemana-mana"
     m "mungkin ini juga salahku karena lansung pergi tiba-tiba"
     m "ini semua gara-gara aku"
@@ -1875,7 +1875,7 @@ label scene_lora_15:
     show lora biasa
     l ". . ."
 
-    m "Lora , maafkan aku"
+    m "Lora, maafkan aku"
     l "tidak apa"
     l "aku juga melanggar janjimu"
     l "aku juga minta maaf"
@@ -1948,7 +1948,7 @@ label scene_lora_16:
 
 a "ayo kita panggil ambulan"
 c "tidak perlu..."
-m "sudah diamlah Cikka , aku akan menelponnya"
+m "sudah diamlah Cikka, aku akan menelponnya"
 l "tak perlu cemas Cikka, istirahat saja ya"
 c "baik"
 m "gawat"
@@ -2049,7 +2049,7 @@ l "hm?"
 k "Cikka mengalami kaki lumpuh sesisa hidupnya"
 show morune capek at slightright with dissolve
 m "apa!?"
-k "operasinya berjalan lancar , tetapi dia mengalami kelumpuhan..."
+k "operasinya berjalan lancar, tetapi dia mengalami kelumpuhan..."
 m "cih..."
 show lora biasa at slightright with dissolve
 l "aku akan pulang"
@@ -2093,7 +2093,7 @@ m "Bu"
 show kyoko kaget at left with dissolve
 k "uwaah! Morune!?"
 show morune biasa 2 at slightright with dissolve
-m "aku kesini mau berpamitan , tetapi aku mendengar masalah penting"
+m "aku kesini mau berpamitan, tetapi aku mendengar masalah penting"
 show morune senyum at slightright with dissolve
 m "*senyum"
 m "aku mempunyai dana uang anggota *******"
@@ -2129,7 +2129,7 @@ show chikka biasa 2 at slightright with dissolve
 c "maaf semuanya"
 c "aku mengkhawatirkan kalian"
 
-l "tidak-tidak , mungkin kita yang salah"
+l "tidak-tidak, mungkin kita yang salah"
 l "malah kita tidak tau kalau kau mengalami sakit begitu"
 k "Cikka..."
 c "iya bi?"

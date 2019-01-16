@@ -202,7 +202,7 @@ label scene_00:
 
     "tetapi ayahku justru memberikan kepercayaan untuk menjaga rumah ini dan menjaga ibu kos."
 
-    k "omong-omong [player] , apa kau melihat Morune?"
+    k "omong-omong [player], apa kau melihat Morune?"
 
     a "tidak aku tidak melihatnya"
 
@@ -220,7 +220,7 @@ label scene_00:
 
     show lora biasa
 
-    l "Bu , aku pergi dulu. . ."
+    l "Bu, aku pergi dulu. . ."
 
     k "udah sarapan?"
 
@@ -230,7 +230,7 @@ label scene_00:
 
     "ia berada di lantai 2"
 
-    "wanita paling ceria , energik, dan sosial tinggi"
+    "wanita paling ceria, energik, dan sosial tinggi"
 
     show chikka kaget at slightleft with dissolve
     show lora biasa at slightright  with dissolve
