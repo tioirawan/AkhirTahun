@@ -55,10 +55,10 @@ define gui.interface_text_color = '#ffffff'
 ## Fonts and Font Sizes ########################################################
 
 ## The font used for in-game text.
-define gui.text_font = "DejaVuSans.ttf"
+define gui.text_font = "LDFComicSans.ttf"
 
 ## The font used for character names.
-define gui.name_text_font = "DejaVuSans.ttf"
+define gui.name_text_font = "LDFComicSansBold.ttf"
 
 ## The font used for out-of-game text.
 define gui.interface_text_font = "DejaVuSans.ttf"
@@ -122,7 +122,7 @@ define gui.namebox_borders = Borders(5, 5, 5, 5)
 
 ## If True, the background of the namebox will be tiled, if False, the
 ## background if the namebox will be scaled.
-define gui.namebox_tile = False
+define gui.namebox_tile = True
 
 
 ## The placement of dialogue relative to the textbox. These can be a whole

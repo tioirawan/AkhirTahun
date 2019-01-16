@@ -1,2 +1,7 @@
 AkhirTahun.exe
 log.txt
+
+*.rpyc
+
+game/saves/*
+game/cache/*
