@@ -57,6 +57,7 @@ transform slightright:
 #define white_fade = fade(0.1, 2.0, 0.5, color="#fff")
 
 label start:
+    call splashscreens
     jump scene_00
 
 label scene_00:
@@ -121,7 +122,9 @@ label scene_00:
     scene bg kamar_a with fade
     $renpy.pause(1.0)
 
-    "*SFX suara alarm jam"
+    play audio "alarm_jam.mp3"
+
+    pause 1
 
     a "Ah. . ."
 

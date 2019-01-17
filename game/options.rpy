@@ -194,7 +194,7 @@ init python:
     build.documentation('*.txt')
 
     # fonts folder
-    config.searchpath.extend(['game//fonts'])
+    config.searchpath.extend(['game//fonts', 'game//sounds'])
 
 ## Set this to a string containing your Apple Developer ID Application to enable
 ## codesigning on the Mac. Be sure to change it to your own Apple-issued ID.
