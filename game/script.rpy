@@ -77,7 +77,7 @@ label scene_00:
 
     gk "Apa kita bisa bertemu lagi?"
 
-    a "Entahlah"
+    a "Entahlah..."
 
     gk "Tak kusangka kita akan berpisah"
 
