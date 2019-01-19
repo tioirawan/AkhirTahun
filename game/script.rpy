@@ -146,15 +146,15 @@ label scene_00:
 
     gk "Aduhh, sakit....."
 
-    a "ohh maaf Cikko"
+    a "Ohh maaf Cikko" 
 
     show chikka marah with dissolve
 
-    c "hati-hati dong [player] duhh"
+    c "Hati-hati dong [player] duhh"
 
-    c "kakiku jadi sakit nih"
+    c "Kakiku jadi sakit nih"
 
-    a "maaf-maaf"
+    a "Maaf-maaf"
 
     c "Kalau jalan it-"
 
@@ -163,11 +163,11 @@ label scene_00:
     # hide chikka marah with dissolve
     show chikka kaget with dissolve
 
-    c "ba-baik. . ."
+    c "Ba-baik. . ."
 
     hide chikka kaget with dissolve
 
-    a "haduh dasar anak itu kalau sudah emosi gak bisa di berhentiin"
+    a "Haduh dasar anak itu kalau sudah emosi gak bisa di berhentiin"
 
     $renpy.pause(1.0)
 
@@ -175,31 +175,31 @@ label scene_00:
 
     show kyoko biasa 1
 
-    k "makanan mu sudah siap [player]"
+    k "Makanan mu sudah siap [player]"
 
-    a "baik..."
+    a "Baik..."
 
     "Namanya adalah kyoko"
 
-    "semenjak lulus kuliah ia disuruh orangtua ku menjaga rumah ini"
+    "Semenjak lulus kuliah ia disuruh orangtua ku menjaga rumah ini"
 
-    "dulu ia anak kos disini"
+    "Dulu ia anak kos disini"
 
-    "tetapi ayahku justru memberikan kepercayaan untuk menjaga rumah ini dan menjaga ibu kos."
+    "Tetapi ayahku justru memberikan kepercayaan untuk menjaga rumah ini dan menjaga ibu kos."
 
-    k "omong-omong [player], apa kau melihat Morune?"
+    k "Omong-omong [player], apa kau melihat Morune?"
 
-    a "tidak aku tidak melihatnya"
+    a "Tidak aku tidak melihatnya"
 
     show kyoko biasa 2
 
-    k "apa dia ketiduran di perpustakaan umum lagi? ya ampun"
+    k "Apa dia ketiduran di perpustakaan umum lagi? ya ampun"
 
     "Morune. ia tinggal di lantai 3"
 
-    "ia berada disebelah kamarku"
+    "Ia berada disebelah kamarku"
 
-    "karena terlalu diam dan misterius. keberadaannya hampir saja tidak terasa"
+    "Karena terlalu diam dan misterius. keberadaannya hampir saja tidak terasa"
 
     scene bg lorong with fade
 
@@ -207,65 +207,69 @@ label scene_00:
 
     l "Bu, aku pergi dulu. . ."
 
-    k "udah sarapan?"
+    k "Udah sarapan?"
 
-    l "sudah..."
+    l "Sudah..."
 
-    "namanya Lora"
+    "Namanya Lora"
 
-    "ia berada di lantai 2"
+    "Ia berada di lantai 2"
 
-    "wanita paling ceria, energik, dan sosial tinggi"
+    "Wanita paling ceria, energik, dan sosial tinggi"
 
     show chikka kaget at slightleft with dissolve
     show lora biasa at slightright  with dissolve
 
     c "Aduhhhh gawaaat..."
 
-    k "ada apa?"
+    k "Ada apa?"
 
     c "PR ku belum kukerjakan!"
 
-    k "heh?"
+    k "Heh?"
 
     show chikka biasa at slightleft with dissolve
 
-    c "oke bi aku berangkat. aku kerjakan di sekolah"
+    c "Oke bi aku berangkat. aku kerjakan di sekolah"
 
     hide lora biasa with dissolve
     hide chikka biasa with dissolve
 
-    "nama anak itu Cikka"
+    "Nama anak itu Cikka"
 
-    "kelas 3 smp, sifat tsundere minta ampun"
+    "Kelas 3 smp, sifat tsundere minta ampun"
 
-    "meskipun begitu dia memiliki bakat tetap menjalani hidup"
+    "Meskipun begitu dia memiliki bakat tetap menjalani hidup"
 
-    "walau katanya sebenarnya dia sakit."
+    "Walau katanya sebenarnya dia sakit."
 
     $renpy.pause(1.0)
 
     show kyoko nanya with dissolve
 
-    k "omong-omong[player]"
+    k "Omong-omong [player]"
 
     a "Iya?"
 
-    k "apa pekerjaanmu sudah selesai?"
+    k "Apa pekerjaanmu sudah selesai?"
 
-    a "ohh komik? sudah tante"
+    a "Ohh komik? sudah tante"
 
     show kyoko biasa 2 with dissolve
 
-    k "hooh, kapan-kapan liat ya"
+    k "Ho-oh"
 
-    a "iya"
+    k "Kapan-kapan liat ya"
+
+    a "Iya"
 
     hide kyoko biasa 2  with dissolve
 
-    "pekerjaanku komikus . Aku sudah lulus sekolah"
+    "Pekerjaanku komikus"
 
-    "aku mendapatkan uang dari komik"
+    "Aku sudah lulus sekolah"
+
+    "Aku mendapatkan uang dari komik"
 
     #hide kyoko senyum
 
@@ -281,57 +285,57 @@ label scene_000:
 
     a "terimakasih nte"
 
-    k "ya sama-sama"
+    k "Ya sama-sama"
 
     hide kyoko biasa 2  with dissolve
 
-    gk "aku pulang"
+    gk "Aku pulang"
 
     a "Morune!?"
 
     show morune capek  with dissolve
 
-    m "ada apa?"
+    m "Ada apa?"
 
-    a "bukankah ini jam masuk sekolah?"
+    a "Bukankah ini jam masuk sekolah?"
 
-    m "maaf aku capek"
+    m "Maaf aku capek"
 
-    k "apa kau tak enak badan morune?"
+    k "Apa kau tak enak badan morune?"
 
     m "...."
 
     "Namanya Morune"
 
-    "ia seorang genius"
+    "Ia seorang genius"
 
-    "selalu ranking 1"
+    "Selalu ranking 1"
 
-    "tetapi tidak ada teman atau seorang yang dekat dengan dia."
+    "Tetapi tidak ada teman atau seorang yang dekat dengan dia."
 
     "....."
 
     hide morune capek  with dissolve
 
-    a "oh iya"
+    a "Oh iya"
 
-    a "aku harus selesaiin komikku untuk lomba mendatang."
+    a "Aku harus selesaiin komikku untuk lomba mendatang."
 
     scene bg kamar_a with fade
 
-    a "hmm tak ada refrensi"
+    a "Hmm tak ada refrensi"
 
-    a "apa yang mau aku lakukan ya. . ."
+    a "Apa yang mau aku lakukan ya. . ."
 
-    a "mungkin untuk mengisi waktu luangku aku mencoba mendekat ke salah satu perempuan di kos ini"
+    a "Mungkin untuk mengisi waktu luangku aku mencoba mendekat ke salah satu perempuan di kos ini"
 
-    a "siapa tau aku dapat refrensi untuk komik yang akan datang"
+    a "Siapa tau aku dapat refrensi untuk komik yang akan datang"
 
     menu:
         "Lora":
             jump scene_lora_01
         "Morune":
-            jump gksido_moruna
+            jump scene_morune_01
         "Chikka":
             jump gksido_chikka
         "Kyoko":
