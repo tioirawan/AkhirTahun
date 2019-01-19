@@ -81,6 +81,7 @@ label scene_kyokko_01:
     k "Gambar ini....."
 
     a "Aahh ja-jangan dilihat!"
+    
 
     
 

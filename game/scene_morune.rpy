@@ -19,9 +19,9 @@ label scene_morune_01:
 
     a "*dia datang"
     a "Morune bisa bicara sebentar?"
-    m "A-aku?"
+    m "a-aku?"
     a "Iya"
-    m "A...ada apa?"
+    m "a...ada apa?"
     a "Anu..."
     a "Ohh omong-omong kau sering ke perpustakaan kan?"
     m "Iya"
@@ -157,3 +157,16 @@ label scene_morune_02_02:
     extend " Karena aku takut kehilangan seseorang lagi"
 
     show morune bad biasa with dissolve
+
+    gk "apa yang dia mau lakukan sebenarnya malam-malam begini?"
+    a "entahlah , katanya ia menuju ke perpustakaan"
+    gk "perpustakaan lewat kanan situ"
+    a "benarkah!?"
+    gk "iya"
+    a "makasih!"
+    gk ". . ."
+    a "omong-omong namamu?"
+    gk "!?"
+    gk "*lari meninggalkan tempat"
+    a "apa-apaan itu tadi"
+
