@@ -80,14 +80,12 @@ label scene_morune_01:
         a "What should i do nigga"
 
         "Membiarkanya":
-            jump scene_morune_01_01
+            a "Biarkan saja lah..."
+            a "Tapi aku tidak tega"
         "Mengikutinya":
-            jump scene_morune_01_02
+            pass
 
 label scene_morune_01_01:
-    pass
-
-label scene_morune_01_02:
     scene bg lorong with fade
 
     show kyoko nanya with dissolve
@@ -123,6 +121,8 @@ label scene_morune_01_02:
 label scene_morune_02:
     scene bg gang_kecil with fade
 
+    show morune bad marah with dissolve
+
     gk "Hey kau!?"
     a "Siapa?"
     gk "Kau siapa memasuki wilayahku?"
@@ -132,7 +132,7 @@ label scene_morune_02:
     gk "Ahhh maaf"
 
     "Dilihat dari penampilannya ia seperti geng preman."
-    extend "Dengan penampilan tomboy"
+    extend " Dengan penampilan tomboy"
     a "Apa kita pernah bertemu sebelumnya?"
     gk "Tentu tidak!"
     a "Anuu..." 
@@ -143,9 +143,9 @@ label scene_morune_02:
 
     menu:
         "Aku akan menyuruhnya kembali. Semua orang di rumah khawatir":
-            call scene_morune_02_01
-        "Aku akan memberikannya nasehat meskipun aku tidak tau apa keinginan sebarnya dia"
-            jump scene_morune_02_02
+            call scene_morune_02_02
+        "Aku akan memberikannya nasehat meskipun aku tidak tau apa keinginan sebarnya dia":
+            jump scene_morune_02_01
 
 label scene_morune_02_01:
     gk "Hooh, nasehat apa?"
@@ -154,4 +154,6 @@ label scene_morune_02_01:
 label scene_morune_02_02:
     gk "Apa kau khawatir tentang dia?"
     a "Tentu saja! meskipun jarang berbicara aku tetap khawatir."
-    extend " Karena aku taku kehilangan seseorang lagi"
+    extend " Karena aku takut kehilangan seseorang lagi"
+
+    show morune bad biasa with dissolve
